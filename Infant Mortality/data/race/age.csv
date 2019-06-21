@@ -1,0 +1,17 @@
+Race,Age at death,Count,Total Live Births,Rate
+American Indian,Neonatal,60,19627,3.06
+American Indian,PostNeonatal,45,19627,2.29
+Asian,Neonatal,1308,639944,2.04
+Asian,PostNeonatal,579,639944,0.9
+Black,Neonatal,2007,282125,7.11
+Black,PostNeonatal,1130,282125,4.01
+Hispanic,Neonatal,9547,2695240,3.54
+Hispanic,PostNeonatal,4110,2695240,1.52
+Not Stated or Unknown,Neonatal,81,89583,0.9
+Not Stated or Unknown,PostNeonatal,10,89583,0.11
+Pacific Islander/Hawaiian,Neonatal,94,23499,4.0
+Pacific Islander/Hawaiian,PostNeonatal,59,23499,2.51
+Two or more races,Neonatal,688,94906,7.25
+Two or more races,PostNeonatal,350,94906,3.69
+White/Other,Neonatal,4302,1465278,2.94
+White/Other,PostNeonatal,1934,1465278,1.32
